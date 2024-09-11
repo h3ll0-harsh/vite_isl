@@ -1,0 +1,81 @@
+.reg_form{
+    margin-top: 20px;
+    align-items: center;
+}
+.reg_form input{
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+}
+.reg_form button{
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: rgb(22, 50, 91);
+    color:rgb(167, 230, 255);
+    height: 70px;
+    width: 140px;
+}
+.reg_form button:hover{
+    background-color:rgb(255, 220, 127) ;
+    color: black;
+}
+.reg_form a{
+    text-decoration: none;
+    color:rgb(22, 50, 91);
+    margin-left: 5px;
+}
+.account{
+    margin-left: 30%;
+}
+.account img{
+    height: 400px;
+    
+}
+.account h1{
+    margin-left: 25%;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.account1{
+    margin-left: 15% ;
+    margin-top: 20px;
+    border: 2px solid black;
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: orange ;
+}
+.account1 p{
+    display: inline;
+
+}
+.account2{
+    margin-left: 15% ;
+    margin-top: 20px;
+    border: 2px solid black;
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: pink;
+}
+.account3{
+    margin-left: 15% ;
+    margin-top: 20px;
+    border: 2px solid black;
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(167, 230, 255);
+}
+
